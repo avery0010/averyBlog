@@ -6,13 +6,13 @@ export default defineThemeConfig({
   hostname: "http://javapub.net.cn/",
 
   author: {
-    name: "Wang Shiyu",
+    name: "Luo Wanting",
     url: "http://javapub.net.cn",
   },
 
   iconPrefix: "iconfont icon-",
 
-  logo: "/javapub-backgroup.svg",
+  logo: "/logo.jpg",
 
   repo: "https://github.com/Rodert",
 
@@ -74,7 +74,7 @@ export default defineThemeConfig({
       visitor: true,
 
       blog: {
-        description: "一个来自巴彦淖尔的朋友",
+        description: "技术栈：Vue",
         intro: "/intro.html",
       },
     },

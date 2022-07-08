@@ -156,7 +156,7 @@ $$
 
 ## 布局
 
-![Logo](/javapub-logo.svg)
+![Logo](/logo.jpg)
 
 <!-- .element: class="r-stretch" -->
 

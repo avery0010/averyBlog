@@ -1,13 +1,13 @@
 ---
 home: true
 icon: home
-title: 项目主页
-heroImage: /javapub-logo.svg
-heroText: JavaPub
-tagline: 专注于面试、副业，技术人的成长记录。
+title: 文档主页
+heroImage: /logo.jpg
+heroText: Avery
+tagline: Avery的学习成长记录。
 actions:
-  - text: 最少必要面试题 💡
-    link: /willbe/
+  - text:  个人项目 💡
+    link: /project/project
 
   - text: 博客主页 🏠
     link: /
@@ -99,51 +99,46 @@ actions:
 #     details: 包括图标支持、全屏按钮、返回顶部按钮等
 #     link: https://vuepress-theme-hope.github.io/v2/zh/guide/feature/
 copyright: false
-footer: MIT Licensed | Copyright © 2022-present Wang Shiyu
+footer: MIT Licensed | Copyright © 2022-present Luo Wanting
 ---
-
 
 [GItHub](https://github.com/Rodert) | [GitEE](https://gitee.com/rodert)
 
-
-# 最少必要面试题
+# 前端知识点
 
 - [目录](willbe/)
 
-[【Java基础】10道不得不会的Java基础面试题](willbe/java-basics-interview-must.md)
+<!-- [【Java 基础】10 道不得不会的 Java 基础面试题](willbe/java-basics-interview-must.md)
 
-[【Java并发】10道不得不会的Java并发基础面试题](willbe/java-concurrent-interview-must)
+[【Java 并发】10 道不得不会的 Java 并发基础面试题](willbe/java-concurrent-interview-must)
 
-[【MySQL】10道不得不会的MySQL基础面试题](willbe/mysql-interview-must.md)
+[【MySQL】10 道不得不会的 MySQL 基础面试题](willbe/mysql-interview-must.md)
 
-[【ElasticSearch】10道不得不会的ElasticSearch面试题](willbe/elasticsearch-interview-must.md)
+[【ElasticSearch】10 道不得不会的 ElasticSearch 面试题](willbe/elasticsearch-interview-must.md)
 
-[【JVM】10道不得不会的JVM面试题](willbe/jvm-interview-must.md)
+[【JVM】10 道不得不会的 JVM 面试题](willbe/jvm-interview-must.md)
 
-[【Spring】10道不得不会的Spring面试题](willbe/spring-interview-must.md)
+[【Spring】10 道不得不会的 Spring 面试题](willbe/spring-interview-must.md) -->
 
 ---
 
-# 小游戏
+# 个人项目
 
 - [目录](project/game/)
 
+<!-- [Java 实现一个坦克大战的小游戏【附源码】](/project/game/tank-game.md)
 
+[Java 实现植物大战僵尸小游戏【附源码】](/project/game/plants-vs-zombies-game.md)
 
+[Java 实现捕鱼达人小游戏【附源码】](/project/game/catch-fish-game.md)
 
-[Java实现一个坦克大战的小游戏【附源码】](/project/game/tank-game.md)
+[Java 实现贪吃蛇小游戏【附源码】](/project/game/gluttonous-snake-game.md)
 
-[Java实现植物大战僵尸小游戏【附源码】](/project/game/plants-vs-zombies-game.md)
-
-[Java实现捕鱼达人小游戏【附源码】](/project/game/catch-fish-game.md)
-
-[Java实现贪吃蛇小游戏【附源码】](/project/game/gluttonous-snake-game.md)
-
-[Java实现一个打飞机的小游戏【附源码】](/project/game/hit-aircraft-game.md)
+[Java 实现一个打飞机的小游戏【附源码】](/project/game/hit-aircraft-game.md)
 
 [俄罗斯方块【附源码】](/project/game/tetris-game.md)
 
-[3D赛车【附源码】](/project/game/3d-racing-game.md)
+[3D 赛车【附源码】](/project/game/3d-racing-game.md)
 
 [小鸟飞行游戏【附源码】](/project/game/bird-flying-game.md)
 
@@ -151,32 +146,17 @@ footer: MIT Licensed | Copyright © 2022-present Wang Shiyu
 
 [吃豆人游戏【附源码】](/project/game/pac-man-game.md)
 
-[超级马里奥【附源码】](/project/game/super-mario-game.md)
-
-
-
-
-
+[超级马里奥【附源码】](/project/game/super-mario-game.md) -->
 
 ---
 
-# 公众号
 
-文章都会在第一时间同步公众号，也会发一些日常和对副业的尝试。
-
-![wechat](https://tva1.sinaimg.cn/large/007F3CC8ly1h1fh7jgw85j3076076glw.jpg)
-
----
 
 # 联系我
 
-欢迎添加我微信，可以免费提供面试帮助，交流|加群|朋友圈。
 
-![my二维码](https://tva1.sinaimg.cn/large/007F3CC8ly1h1fh8itv2gj30by0byq3j.jpg)
-
-
-
+![二维码](https://tva1.sinaimg.cn/large/007F3CC8ly1h1fh8itv2gj30by0byq3j.jpg)
 
 ---
 
-必须是你
+

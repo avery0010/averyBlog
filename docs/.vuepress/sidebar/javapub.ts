@@ -4,57 +4,44 @@ export const javapub = defineSidebarConfig({
   "/": [
     "",
     "home",
-    "slide",
     {
-      text: "最少必要面试题",
-      icon: "creative",
+      text: "前端知识点",
+      icon: "note",
       prefix: "willbe/",
       link: "willbe/",
       collapsable: true,//可折叠
-      children: "structure",
-    },
-    {
-      text: "小游戏",
-      icon: "creative",
-      prefix: "project/game/",
-      link: "project/game/",
-      collapsable: true,
-      children: "structure",
-    },
-    {
-      text: "文章",
-      icon: "creative",
-      prefix: "posts/",
-      link: "posts/",
-      collapsable: true,
-      children: [
+        children: [
         {
-          text: "推文",
-          icon: "creative",
-          prefix: "article/",
-          // link: "project/game/",
+          text: "Vue",
           collapsable: true,
+          prefix: "Vue/",
           children: "structure",
         },
         {
-          text: "python",
-          icon: "creative",
-          prefix: "python/",
-          // link: "project/game/",
+          text: "React",
           collapsable: true,
+          prefix: "React/",
           children: "structure",
-        },
-        {
-          text: "redis",
-          icon: "creative",
-          prefix: "redis/",
-          collapsable: true,
-          children: "structure",
-        },
+        }
       ],
     },
-
-    
+    {
+      text: "个人项目",
+      icon: "creative",
+      prefix: "project/project/",
+      link: "project/project/",
+      collapsable: true,
+      children: "structure",
+    },
+    {
+      text: "遇到的坑",
+      icon: "layout",
+      prefix: "project/project/",
+      link: "project/project/",
+      collapsable: true,
+      children: "structure",
+    },
+     
     // {
     //   text: "文章",
     //   icon: "note",

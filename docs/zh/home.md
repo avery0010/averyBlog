@@ -1,8 +1,8 @@
 ---
 home: true
 icon: home
-title: 项目主页
-heroImage: /logo.svg
+title: 文档主页
+heroImage: /logo.jpg
 heroText: 项目名称
 tagline: 你可以在这里放置或是整个项目的描述。
 actions:
@@ -19,10 +19,10 @@ features:
     details: 新增文字对齐、上下角标、脚注、标记、任务列表、数学公式、流程图、图表与幻灯片支持
     link: https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/
 
-  - title: 幻灯片页面
-    icon: slides
-    details: 添加幻灯片页面以显示你喜欢的内容
-    link: https://vuepress-theme-hope.github.io/v2/zh/guide/layout/slides
+  # - title: 幻灯片页面
+  #   icon: slides
+  #   details: 添加幻灯片页面以显示你喜欢的内容
+  #   link: https://vuepress-theme-hope.github.io/v2/zh/guide/layout/slides
 
   - title: 布局增强
     icon: layout

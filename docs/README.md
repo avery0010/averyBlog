@@ -3,36 +3,31 @@ home: true
 layout: Blog
 icon: home
 title: 博客主页
-heroImage: /javapub-backgroup.svg
-heroText: JavaPub
+heroText: Avery
+bgImage: /bgImage.jpg
 heroFullScreen: true
-tagline: 专注于面试、副业，技术人的成长记录
+tagline: Avery的学习成长记录
 projects:
   - icon: project
-    name: 小游戏
-    desc: 人人可上手的小游戏
-    link: /project/game/
+    name: 项目
+    desc: 个人公开项目
+    link: /project/project/
 
   - icon: friend
-    name: 面试题
-    desc: 最少必要面试题
+    name: 前端知识点
+    desc: 包含HTML、CSS、JS、Vue等
     link: /willbe/
 
   - icon: article
-    name: 实用技巧
-    desc: 实用技巧
+    name: 遇到的坑
+    desc: 从一个坑到另一个坑的记录
     link: /practical/
-	 
+
   - icon: book
     name: 关于我
     desc: 我的故事
     link: /me/
-	 
-  - icon: link
-    name: 旧版博客
-    desc: GitHub
-    link: https://github.com/Rodert/JavaPub
-	 
+
 #   - icon: book
 #     name: 书籍名称
 #     desc: 书籍详细描述
@@ -54,7 +49,7 @@ projects:
 #     link: https://你的自定义链接
 
 # footer: 自定义你的页脚文字
-footer: MIT Licensed | Copyright © 2022-present Wang Shiyu
+footer: MIT Licensed | Copyright © 2022-present Luo Wanting
 ---
 
-如果你愿意
+
