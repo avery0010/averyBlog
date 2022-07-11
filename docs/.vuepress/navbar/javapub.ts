@@ -3,7 +3,8 @@ import { defineNavbarConfig } from "vuepress-theme-hope";
 export const javapub = defineNavbarConfig([
   "/",
   "/home",
-  { text: "个人项目", icon: "creative", link: "/project/" },
+ { text: "使用指南", icon: "creative", link: "/guide/" },
+  { text: "练手项目", icon: "creative", link: "/project/ui" },
   {
     text: "前端知识点",
     icon: "edit",

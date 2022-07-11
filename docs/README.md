@@ -11,8 +11,7 @@ projects:
   - icon: project
     name: 项目
     desc: 个人公开项目
-    link: /project/project/
-
+    link: /project/
   - icon: friend
     name: 前端知识点
     desc: 包含HTML、CSS、JS、Vue等
@@ -21,7 +20,7 @@ projects:
   - icon: article
     name: 遇到的坑
     desc: 从一个坑到另一个坑的记录
-    link: /practical/
+    link: /project/ui
 
   - icon: book
     name: 关于我

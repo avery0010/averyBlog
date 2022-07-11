@@ -1,6 +1,6 @@
 import { defineSidebarConfig } from "vuepress-theme-hope";
 
-export const javapub = defineSidebarConfig({
+export const avery = defineSidebarConfig({
   "/": [
     "",
     "home",
@@ -8,7 +8,7 @@ export const javapub = defineSidebarConfig({
       text: "前端知识点",
       icon: "note",
       prefix: "willbe/",
-      link: "willbe/",
+      link: "willbe/Vue/Vue",
       collapsable: true,//可折叠
         children: [
         {
@@ -28,19 +28,19 @@ export const javapub = defineSidebarConfig({
     {
       text: "个人项目",
       icon: "creative",
-      prefix: "project/project/",
-      link: "project/project/",
+      prefix: "project/",
+      link: "project/",
       collapsable: true,
       children: "structure",
     },
-    {
-      text: "遇到的坑",
-      icon: "layout",
-      prefix: "project/project/",
-      link: "project/project/",
-      collapsable: true,
-      children: "structure",
-    },
+    // {
+    //   text: "遇到的坑",
+    //   icon: "layout",
+    //   prefix: "project/",
+    //   link: "project/",
+    //   collapsable: true,
+    //   children: "structure",
+    // },
      
     // {
     //   text: "文章",

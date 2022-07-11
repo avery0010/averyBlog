@@ -64,11 +64,11 @@ export default defineThemeConfig({
       navbar: navbar.javapub,
 
       // sidebar
-      sidebar: sidebar.javapub,
+      sidebar: sidebar.avery,
+     
+      headerDepth: 1,
 
-      footer: "<a href='https://beian.miit.gov.cn/'>京ICP备2021007111号-2</a>",
-
-      displayFooter: true,
+      lastUpdated: 'Last Updated',
 
       //浏览量
       visitor: true,
@@ -84,14 +84,11 @@ export default defineThemeConfig({
      */
     "/zh/": {
       // navbar
-      navbar: navbar.zh,
+      navbar: navbar.javapub,
 
       // sidebar
-      sidebar: sidebar.zh,
+      sidebar: sidebar.avery,
 
-      footer: "<a href='https://beian.miit.gov.cn/'>京ICP备2021007111号-2</a>",
-
-      displayFooter: true,
 
       blog: {
         description: "一个前端开发者",
