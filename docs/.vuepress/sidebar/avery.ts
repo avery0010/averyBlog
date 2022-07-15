@@ -22,6 +22,12 @@ export const avery = defineSidebarConfig({
           collapsable: true,
           prefix: "React/",
           children: "structure",
+        },
+        {
+          text: "零碎的知识点",
+          collapsable: true,
+          prefix: "article/",
+          children: "structure",
         }
       ],
     },

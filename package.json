@@ -3,10 +3,13 @@
   "version": "2.0.0",
   "description": "A project of vuepress-theme-hope",
   "license": "MIT",
+  "private": true,
+  "homepage": "./",  
   "scripts": {
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
-    "docs:dev": "vuepress dev docs"
+    "docs:dev": "vuepress dev docs",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@vuepress/plugin-search": "^2.0.0-beta.48",
@@ -14,6 +17,7 @@
     "vuepress-theme-hope": "^2.0.0-beta.45"
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "yarn": "^1.22.18"
   }
 }
