@@ -2,7 +2,7 @@ import { defineHopeConfig } from "vuepress-theme-hope";
 import themeConfig from "./themeConfig";
 
 export default defineHopeConfig({
-  base: "/",
+  base: "/averyBlog.github.io/",
   title: "Avery",//默认信息
   description: "Avery的学习成长记录",//默认信息
 
