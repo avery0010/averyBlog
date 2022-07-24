@@ -3,24 +3,24 @@ import * as navbar from "./navbar";
 import * as sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "http://javapub.net.cn/",
+  hostname: "https://avery-blog.vercel.app/",
 
   author: {
     name: "Luo Wanting",
-    url: "http://javapub.net.cn",
+    url: "https://avery-blog.vercel.app",
   },
 
   iconPrefix: "iconfont icon-",
 
   logo: "/logo.jpg",
 
-  repo: "https://github.com/Rodert",
+  repo: "hhttps://github.com/avery0010/averyBlog",
 
   docsDir: "demo/src",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
-  footer: "<a href='https://beian.miit.gov.cn/'>京ICP备2021007111号-2</a>",
+  footer: `<a href='https://github.com/avery0010/averyBlog'>2022年-至今</a>`,
 
   displayFooter: true,
 
@@ -35,8 +35,8 @@ export default defineThemeConfig({
       // Evernote: "https://example.com",
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
-      Gitee: "https://gitee.com/rodert/JavaPub",
-      GitHub: "https://github.com/Rodert",
+      Gitee: "https://gitee.com/avery0010",
+      GitHub: "https://github.com/avery0010",
       // Gitlab: "https://example.com",
       // Gmail: "https://example.com",
       // Instagram: "https://example.com",
@@ -54,21 +54,21 @@ export default defineThemeConfig({
       // Weibo: "https://example.com",
       // Whatsapp: "https://example.com",
       // Youtube: "https://example.com",
-      Zhihu: "https://www.zhihu.com/people/zhui-ma-7-49",
+      // Zhihu: "https://example.com",
     },
   },
 
   locales: {
     "/": {
       // navbar
-      navbar: navbar.javapub,
+      navbar: navbar.avery,
 
       // sidebar
       sidebar: sidebar.avery,
      
       headerDepth: 1,
 
-      lastUpdated: 'Last Updated',
+      lastUpdated: true,
 
       //浏览量
       visitor: true,
@@ -84,7 +84,7 @@ export default defineThemeConfig({
      */
     "/zh/": {
       // navbar
-      navbar: navbar.javapub,
+      navbar: navbar.avery,
 
       // sidebar
       sidebar: sidebar.avery,
@@ -130,7 +130,7 @@ export default defineThemeConfig({
        * Using giscus
        */
       // type: "giscus",
-      // repo: "Rodert/JavaPub-Blog",
+      // repo: "",
       // repoId: "R_kgDOHK-WNg",
       // category: "Announcements",
       // categoryId: "DIC_kwDOHK-WNs4COsXL",

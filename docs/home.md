@@ -154,8 +154,7 @@ footer: MIT Licensed | Copyright © 2022-present Luo Wanting
 
 # 联系我
 
-
-![二维码](https://tva1.sinaimg.cn/large/007F3CC8ly1h1fh8itv2gj30by0byq3j.jpg)
+<img src="/wechatCode.jpg" style="width:400px"/>
 
 ---
 

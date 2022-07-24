@@ -11,7 +11,7 @@ projects:
   - icon: project
     name: 项目
     desc: 个人公开项目
-    link: /project/
+    link: /project/ui
   - icon: friend
     name: 前端知识点
     desc: 包含HTML、CSS、JS、Vue等

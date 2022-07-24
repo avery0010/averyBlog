@@ -1,1 +1,1 @@
-export * from "./javapub";
+export * from "./avery";

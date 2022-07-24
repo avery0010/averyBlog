@@ -19,7 +19,7 @@ export default defineHopeConfig({
       "meta",
       {
         name: 'keywords',
-        content: 'JavaPub,java,爬虫,毕业设计,python,计算机毕业设计,elasticsearch,springboot',
+        content: 'Avery,前端开发,Vue,React',
       }
     ],
     //添加百度站长的自动推送代码

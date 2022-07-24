@@ -2,7 +2,7 @@
 
 Avery的博客仓库
 
-<!-- <http://javapub.net.cn/> -->
+<https://github.com/avery0010/averyBlog>
 
 [toc]
 
@@ -47,24 +47,8 @@ Avery的博客仓库
 - [x] 评论系统
 - [x] 侧边栏目录自动生成
 - [ ] 404页面
-- [ ] 访问量统计
-- [ ] 百度提交收录链接
 - [ ] 支持https
-- [ ] SEO
 - [x] 本地搜索
-
-
-
-# 备用信息
-
-<a href='https://beian.miit.gov.cn/'>京ICP备2021007111号-2</a>
-
-
-# 账号信息
-
-评论管理：
-
-https://rodert-java-pub-blog-cq4tgfqik-rodert.vercel.app/ui
 
 
 # 项目结构介绍
