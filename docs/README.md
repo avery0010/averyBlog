@@ -15,7 +15,7 @@ projects:
   - icon: friend
     name: 前端知识点
     desc: 包含HTML、CSS、JS、Vue等
-    link: /willbe/Vue/Vue
+    link: /willbe/Vue/Fetch
 
   - icon: article
     name: 遇到的坑

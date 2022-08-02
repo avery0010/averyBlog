@@ -1,3 +1,25 @@
+---
+
+# 设置作者
+author: Avery
+# 设置写作时间
+date: 2022-07-11
+# 一个页面可以有多个分类
+category:
+  - 零碎的文章
+# 一个页面可以有多个标签
+tag:
+  - 零碎的文章
+  - Vue3
+  - jsx/tsx
+# 此页面会在文章列表置顶
+sticky: true
+# 此页面会出现在首页的文章板块中
+star: true
+# 你可以自定义页脚
+footer: 
+---
+
 # 为什么Vue3的组件库都在使用jsx或tsx
 
 首先Vue3出现了composition API，optionsAPI与compositionAPI的区别如下：

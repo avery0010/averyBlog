@@ -1,13 +1,13 @@
 ---
 home: true
-icon: home
+icon: launch
 title: 文档主页
 heroImage: /logo.jpg
 heroText: Avery
 tagline: Avery的学习成长记录。
 actions:
-  - text:  个人项目 💡
-    link: /project/project
+  - text:  项目 💡
+    link: /project/ui
 
   - text: 博客主页 🏠
     link: /
@@ -102,51 +102,25 @@ copyright: false
 footer: MIT Licensed | Copyright © 2022-present Luo Wanting
 ---
 
-[GItHub](https://github.com/Rodert) | [GitEE](https://gitee.com/rodert)
+[GItHub](https://github.com/Rodert) | [Gitee](https://gitee.com/rodert)
 
 # 前端知识点
 
 - [目录](willbe/)
 
-<!-- [【Java 基础】10 道不得不会的 Java 基础面试题](willbe/java-basics-interview-must.md)
+[Axios原理](willbe/Vue/Axios)
 
-[【Java 并发】10 道不得不会的 Java 并发基础面试题](willbe/java-concurrent-interview-must)
+[beforeUnmount和unmounted的使用场景](willbe/Vue/beforeUnmount%E5%92%8Cunmounted%E7%9A%84%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
 
-[【MySQL】10 道不得不会的 MySQL 基础面试题](willbe/mysql-interview-must.md)
+[使用Fetch](willbe/Vue/Fecth)
 
-[【ElasticSearch】10 道不得不会的 ElasticSearch 面试题](willbe/elasticsearch-interview-must.md)
-
-[【JVM】10 道不得不会的 JVM 面试题](willbe/jvm-interview-must.md)
-
-[【Spring】10 道不得不会的 Spring 面试题](willbe/spring-interview-must.md) -->
 
 ---
 
-# 个人项目
+# 项目
 
 - [目录](project/game/)
 
-<!-- [Java 实现一个坦克大战的小游戏【附源码】](/project/game/tank-game.md)
-
-[Java 实现植物大战僵尸小游戏【附源码】](/project/game/plants-vs-zombies-game.md)
-
-[Java 实现捕鱼达人小游戏【附源码】](/project/game/catch-fish-game.md)
-
-[Java 实现贪吃蛇小游戏【附源码】](/project/game/gluttonous-snake-game.md)
-
-[Java 实现一个打飞机的小游戏【附源码】](/project/game/hit-aircraft-game.md)
-
-[俄罗斯方块【附源码】](/project/game/tetris-game.md)
-
-[3D 赛车【附源码】](/project/game/3d-racing-game.md)
-
-[小鸟飞行游戏【附源码】](/project/game/bird-flying-game.md)
-
-[打地鼠【附源码】](/project/game/dadishu-game.md)
-
-[吃豆人游戏【附源码】](/project/game/pac-man-game.md)
-
-[超级马里奥【附源码】](/project/game/super-mario-game.md) -->
 
 ---
 
@@ -154,7 +128,7 @@ footer: MIT Licensed | Copyright © 2022-present Luo Wanting
 
 # 联系我
 
-<img src="/wechatCode.jpg" style="width:400px"/>
+<img src="/accounts/wechatCode.jpg" style="width:400px"/>
 
 ---
 
