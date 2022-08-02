@@ -7,7 +7,7 @@ export const avery = defineNavbarConfig([
   {
     text: "前端知识点",
     icon: "edit",
-     link: "/willbe/Vue/Axios原理" 
+     link: "/willbe/Vue/Fetch" 
   },
   {
     text: "关于我",

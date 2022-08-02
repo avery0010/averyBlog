@@ -8,7 +8,7 @@ export const avery = defineSidebarConfig({
       text: "前端知识点",
       icon: "note",
       prefix: "willbe/",
-      link: "willbe/Vue/Axios原理",
+      link: "willbe/Vue/Fetch",
       collapsable: true,//可折叠
         children: [
         {
