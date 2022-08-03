@@ -3,7 +3,7 @@ import * as navbar from "./navbar";
 import * as sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "https://avery-blog.vercel.app/",
+  hostname: "https://avery-blog.vercel.app",
 
   author: {
     name: "Luo Wanting",
