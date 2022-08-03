@@ -22,13 +22,13 @@ export default defineHopeConfig({
         content: 'Avery,前端开发,Vue,React',
       }
     ],
-    //添加百度站长的自动推送代码
-    [
-      "script",
-      {
-        src: "/assets/js/autopush-baidu.js"
-      }
-    ],  
+    // //添加百度站长的自动推送代码
+    // [
+    //   "script",
+    //   {
+    //     src: "/assets/js/autopush-baidu.js"
+    //   }
+    // ],  
     // //360站长的验证代码
     // [
     //   "meta",
@@ -44,17 +44,17 @@ export default defineHopeConfig({
     //     src: "/assets/js/autopush-360.js",
     //   },
     // ],
-    ['script', {},
-      `
-      var _hmt = _hmt || [];
-      (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?469aa022c0181622bdf0357a8ca0fd9a";
-        var s = document.getElementsByTagName("script")[0]; 
-        s.parentNode.insertBefore(hm, s);
-      })();
-      `
-   ],
+  //   ['script', {},
+  //     `
+  //     var _hmt = _hmt || [];
+  //     (function() {
+  //       var hm = document.createElement("script");
+  //       hm.src = "https://hm.baidu.com/hm.js?469aa022c0181622bdf0357a8ca0fd9a";
+  //       var s = document.getElementsByTagName("script")[0]; 
+  //       s.parentNode.insertBefore(hm, s);
+  //     })();
+  //     `
+  //  ],
   ],
   // <meta name="360-site-verification" content="63b223c45248d2ea87cb9b1042148dda" />
 
