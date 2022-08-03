@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://avery-blog.vercel.app/sitemap.xml
