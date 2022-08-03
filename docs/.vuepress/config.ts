@@ -22,28 +22,28 @@ export default defineHopeConfig({
         content: 'Avery,前端开发,Vue,React',
       }
     ],
-    // //添加百度站长的自动推送代码
-    // [
-    //   "script",
-    //   {
-    //     src: "/assets/js/autopush-baidu.js"
-    //   }
-    // ],  
-    // //360站长的验证代码
-    // [
-    //   "meta",
-    //   {
-    //     name: "360-site-verification",
-    //     content: "63b223c45248d2ea87cb9b1042148dda",
-    //   },
-    // ],
-    // // 添加360站长的自动推送代码
-    // [
-    //   "script",
-    //   {
-    //     src: "/assets/js/autopush-360.js",
-    //   },
-    // ],
+    //添加百度站长的自动推送代码
+    [
+      "script",
+      {
+        src: "/assets/js/autopush-baidu.js"
+      }
+    ],  
+    //360站长的验证代码
+    [
+      "meta",
+      {
+        name: "360-site-verification",
+        content: "63b223c45248d2ea87cb9b1042148dda",
+      },
+    ],
+    // 添加360站长的自动推送代码
+    [
+      "script",
+      {
+        src: "/assets/js/autopush-360.js",
+      },
+    ],
     ['script', {},
       `
       var _hmt = _hmt || [];
