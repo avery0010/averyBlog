@@ -4,7 +4,7 @@ import themeConfig from "./themeConfig";
 export default defineHopeConfig({
   base: "/",
   title: "Avery",//默认信息
-  description: "Avery的学习成长记录",//默认信息
+  description: "Avery",//默认信息
 
   head: [
     [
@@ -14,36 +14,36 @@ export default defineHopeConfig({
         href: "//at.alicdn.com/t/font_2410206_mfj6e1vbwo.css",
       },
     ],
-    //被搜索引擎搜索标签
-    [
-      "meta",
-      {
-        name: 'keywords',
-        content: 'Avery的学习成长记录',
-      }
-    ],
-    //添加百度站长的自动推送代码
-    // [
-    //   "script",
-    //   {
-    //     src: "/assets/js/autopush-baidu.js"
-    //   }
-    // ],  
-    // //360站长的验证代码
-    // [
-    //   "meta",
-    //   {
-    //     name: "360-site-verification",
-    //     content: "63b223c45248d2ea87cb9b1042148dda",
-    //   },
-    // ],
-    // // 添加360站长的自动推送代码
-    // [
-    //   "script",
-    //   {
-    //     src: "/assets/js/autopush-360.js",
-    //   },
-    // ],
+  //   //被搜索引擎搜索标签
+  //   [
+  //     "meta",
+  //     {
+  //       name: 'keywords',
+  //       content: '',
+  //     }
+  //   ],
+  //   //添加百度站长的自动推送代码
+  //   [
+  //     "script",
+  //     {
+  //       src: "/assets/js/autopush-baidu.js"
+  //     }
+  //   ],  
+  //   //360站长的验证代码
+  //   [
+  //     "meta",
+  //     {
+  //       name: "360-site-verification",
+  //       content: "63b223c45248d2ea87cb9b1042148dda",
+  //     },
+  //   ],
+  //   // 添加360站长的自动推送代码
+  //   [
+  //     "script",
+  //     {
+  //       src: "/assets/js/autopush-360.js",
+  //     },
+  //   ],
   //   ['script', {},
   //     `
   //     var _hmt = _hmt || [];
@@ -55,6 +55,15 @@ export default defineHopeConfig({
   //     })();
   //     `
   //  ],
+  //  [
+  //    "script",
+  //    {
+  //       "data-ad-client": "ca-pub-2817465101828721",
+  //       async: true,
+  //       src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+  //       crossorigin: "anonymous"
+  //    }
+  //  ]
   ],
   // <meta name="360-site-verification" content="63b223c45248d2ea87cb9b1042148dda" />
 

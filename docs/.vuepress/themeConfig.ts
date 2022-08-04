@@ -82,19 +82,19 @@ export default defineThemeConfig({
     /**
      * Chinese locale config
      */
-    // "/zh/": {
-    //   // navbar
-    //   navbar: navbar.avery,
+    "/zh/": {
+      // navbar
+      navbar: navbar.avery,
 
-    //   // sidebar
-    //   sidebar: sidebar.avery,
+      // sidebar
+      sidebar: sidebar.avery,
 
 
-    //   blog: {
-    //     description: "一个前端开发者",
-    //     intro: "/zh/intro.html",
-    //   },
-    // },
+      blog: {
+        description: "一个前端开发者",
+        intro: "/zh/intro.html",
+      },
+    },
   },
 
   encrypt: {
