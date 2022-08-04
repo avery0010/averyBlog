@@ -1,7 +1,7 @@
 import { defineNavbarConfig } from "vuepress-theme-hope";
 
 export const avery = defineNavbarConfig([
-  "/",
+  "",
   "/home",
   { text: "项目", icon: "creative", link: "/project/ui" },
   {
